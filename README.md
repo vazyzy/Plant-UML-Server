@@ -1,4 +1,7 @@
-# Usage with GitHub MD
+## Server for rendering PlantUML diagrams.
+PlantUML site: http://plantuml.com/
+
+## Usage with GitHub MD
 * Should be without empty lines.
 
 ```
@@ -7,4 +10,4 @@
 [A]-[B]
 @enduml)
 ```
-=======
+
