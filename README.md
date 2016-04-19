@@ -1,4 +1,4 @@
-# Usage in GitHub
+# Usage with GitHub MD
 * Should be without empty lines.
 
 ```
@@ -7,3 +7,4 @@
 [A]-[B]
 @enduml)
 ```
+=======
